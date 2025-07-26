@@ -85,6 +85,7 @@
 🎯 Follow [DevUp Society Updates](#) and join the movement!
 
 ---
+<p align="center"> <a href="https://www.linkedin.com/in/faizanmohammed07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FaizanMohammed-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:faizan.dev07@gmail.com"><img src="https://img.shields.io/badge/Gmail-Faizan-red?style=for-the-badge&logo=gmail" /></a> <a href="https://github.com/FaizanMohammed07"><img src="https://img.shields.io/badge/GitHub-FaizanMohammed07-181717?style=for-the-badge&logo=github" /></a> </p>
 
 ## 📬 Let's Connect!
 
