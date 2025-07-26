@@ -2,10 +2,13 @@
 <p align="center">
   <img src="https://your-image-link-here.jpg" alt="Faizan Ali" width="250" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0,0,0,0.2);"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Tech+Enthusiast+%F0%9F%9A%80;DevUp+Society+Founder+%F0%9F%92%BC;Passionate+Learner+%F0%9F%93%9A;Loves+Problem+Solving+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="700" />
+</div>
 ---
 
 ## 🌐 About Me
