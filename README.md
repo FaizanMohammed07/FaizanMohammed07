@@ -1,17 +1,10 @@
-<h1 align="center">Hey 👋, I'm Faizan Ali</h1>
-<p align="center">
-  <img src="https://your-image-link-here.jpg" alt="Faizan Ali" width="250" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0,0,0,0.2);"/>
-</p>
+<h1 align="center">Hey,I'm Faizan Ali</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Tech+Enthusiast+%F0%9F%9A%80;DevUp+Society+Founder+%F0%9F%92%BC;Passionate+Learner+%F0%9F%93%9A;Loves+Problem+Solving+%E2%9C%A8" alt="Typing SVG" />
-</p>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="700" />
-</div>
----
 
-## 🌐 About Me
+ 🌐 About Me
 
 - 🎓 B.Tech IT Student at VJIT  
 - 🌱 Currently building real-world applications with **MERN**, **EJS**, and **Socket.io**  
@@ -23,7 +16,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -35,7 +28,7 @@
 ![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 ![EJS](https://img.shields.io/badge/-EJS-303030?logo=javascript&logoColor=white&style=for-the-badge)
 
-### 🔧 Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?style=for-the-badge)
@@ -65,18 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMohammed07&layout=compact&theme=react" width="45%"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Link |
-|--------|-------------|------|
-| **🌍 Wanderlust** | EJS, Node.js, MongoDB, TailwindCSS | `Coming Soon` |
-| **💊 Prescripto** | MERN Stack, Doctor Booking App | `Coming Soon` |
-| **📦 SideBarMenu** | HTML/CSS | [GitHub Repo](https://github.com/FaizanMohammed07/SideBarMenu) |
-| **🔥 Real-Time Chat App** | Node.js, Socket.io, EJS | `In Progress` |
-
----
 
 ## 📢 DevUp Society - Let’s Grow Together!
 
