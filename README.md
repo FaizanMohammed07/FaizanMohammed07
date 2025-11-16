@@ -11,7 +11,7 @@
   <span style="background: linear-gradient(90deg, #00E5FF, #7F00FF); -webkit-background-clip: text; color: transparent; font-weight: 900; font-size: 38px;">
     About Me
   </span>
-</h2>
+</h1>
 
 
 
@@ -131,7 +131,7 @@
 
 ---
 
-# Contribution Snake  
+# Contributions 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
