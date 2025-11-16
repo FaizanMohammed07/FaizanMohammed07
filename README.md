@@ -5,7 +5,7 @@
 
 <!-- MAIN NAME ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=MOHAMMED+FAIZAN+ALI;FULL+STACK+ENGINEER;REAL-TIME+SYSTEMS+%7C+CLOUD+%7C+BACKEND;FOUNDER+OF+DEVUP+SOCIETY;BUILDING+20%2B+REAL-WORLD+PLATFORMS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=MOHAMMED+FAIZAN+ALI;FULL+STACK+ENGINEER;REAL-TIME+SYSTEMS+%7C+CLOUD+%7C+BACKEND;CO-FOUNDER+OF+DEVUP+SOCIETY;BUILDING+20%2B+REAL-WORLD+PLATFORMS" />
 </p>
 
 <!-- SLEEK MOTION HEADER (UNIQUE) -->
@@ -13,20 +13,10 @@
   <img src="https://raw.githubusercontent.com/elianiva/elianiva/master/asset/header.gif" width="900">
 </p>
 
-<!-- CUSTOM SVG WAVE -->
-<img src="https://raw.githubusercontent.com/kamranahmedse/kamranahmedse/master/wave.svg" width="100%" />
-
-
 # About Me  
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=Backend+Engineer+specializing+in+real-time+infrastructure.;Cloud-native+developer+focused+on+scalable+systems.;Founder+of+DevUp+Society+impacting+300%2B+students.;Co-Founder+FNeX+building+multi-college+engineering+ecosystems.;20%2B+projects+shipped+from+idea+to+production.;Passionate+about+distributed+systems%2C+automation+and+developer+culture." />
 </p>
-
----
-
-<!-- WAVE 2 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
-
 
 # Skills & Technologies (V3 Expanded)
 
@@ -96,33 +86,28 @@
 
 ---
 
-## System Design & Infra Skills  
-- Distributed Systems  
-- Caching Layers (Redis)  
-- Load Balancing  
-- CI/CD pipelines  
-- Authentication Systems (JWT, OAuth, Cookies)  
-- API Gateways  
-- Horizontal Scaling  
-- Monitoring & Observability (Grafana, Prometheus)  
-
----
-
-<!-- SVG WAVE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave2.svg" width="100%" />
-
-
-# Featured Projects  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaizanMohammed07&repo=donato&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaizanMohammed07&repo=collegehub&theme=react&hide_border=true"/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2800&pause=900&color=00D9FF&width=750&lines=System+Design+%26+Infrastructure+Skills" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaizanMohammed07&repo=jeevanrakshak360&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaizanMohammed07&repo=devup&theme=react&hide_border=true"/>
+<p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-neon.svg" width="100%">
 </p>
 
+<ul>
+  <li><span style="color:#00E5FF; font-weight:600;">Distributed Systems</span></li>
+  <li><span style="color:#A26BFF; font-weight:600;">Caching Layers (Redis)</span></li>
+  <li><span style="color:#FF8A00; font-weight:600;">Load Balancing</span></li>
+  <li><span style="color:#36D399; font-weight:600;">CI/CD Pipelines</span></li>
+  <li><span style="color:#F43F5E; font-weight:600;">Authentication (JWT, OAuth, Cookies)</span></li>
+  <li><span style="color:#38BDF8; font-weight:600;">API Gateways</span></li>
+  <li><span style="color:#C084FC; font-weight:600;">Horizontal Scaling</span></li>
+  <li><span style="color:#4ADE80; font-weight:600;">Monitoring & Observability (Grafana, Prometheus)</span></li>
+</ul>
+
+<p>
+  <img src="https://raw.githubusercontent.com/kamranahmedse/kamranahmedse/master/wave.svg" width="100%">
+</p>
 
 ---
 
