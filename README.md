@@ -85,29 +85,44 @@
 </p>
 
 ---
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2800&pause=900&color=00D9FF&width=750&lines=System+Design+%26+Infrastructure+Skills" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-neon.svg" width="100%">
 </p>
 
-<ul>
-  <li><span style="color:#00E5FF; font-weight:600;">Distributed Systems</span></li>
-  <li><span style="color:#A26BFF; font-weight:600;">Caching Layers (Redis)</span></li>
-  <li><span style="color:#FF8A00; font-weight:600;">Load Balancing</span></li>
-  <li><span style="color:#36D399; font-weight:600;">CI/CD Pipelines</span></li>
-  <li><span style="color:#F43F5E; font-weight:600;">Authentication (JWT, OAuth, Cookies)</span></li>
-  <li><span style="color:#38BDF8; font-weight:600;">API Gateways</span></li>
-  <li><span style="color:#C084FC; font-weight:600;">Horizontal Scaling</span></li>
-  <li><span style="color:#4ADE80; font-weight:600;">Monitoring & Observability (Grafana, Prometheus)</span></li>
-</ul>
+<p align="left">
+
+<!-- row 1 -->
+<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge&labelColor=0ea5e9&color=0ea5e9" />
+<img src="https://img.shields.io/badge/Caching%20(Redis)-111827?style=for-the-badge&labelColor=a855f7&color=a855f7" />
+
+<br/>
+
+<!-- row 2 -->
+<img src="https://img.shields.io/badge/Load%20Balancing-111827?style=for-the-badge&labelColor=f97316&color=f97316" />
+<img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge&labelColor=22c55e&color=22c55e" />
+
+<br/>
+
+<!-- row 3 -->
+<img src="https://img.shields.io/badge/Auth%20(JWT/OAuth/Cookies)-111827?style=for-the-badge&labelColor=ef4444&color=ef4444" />
+<img src="https://img.shields.io/badge/API%20Gateways-111827?style=for-the-badge&labelColor=38bdf8&color=38bdf8" />
+
+<br/>
+
+<!-- row 4 -->
+<img src="https://img.shields.io/badge/Horizontal%20Scaling-111827?style=for-the-badge&labelColor=c084fc&color=c084fc" />
+<img src="https://img.shields.io/badge/Monitoring%20%26%20Observability-111827?style=for-the-badge&labelColor=4ade80&color=4ade80" />
+
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/kamranahmedse/kamranahmedse/master/wave.svg" width="100%">
 </p>
+
 
 ---
 
