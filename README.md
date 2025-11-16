@@ -7,17 +7,19 @@
 </p>
 
 
-<h1 align="left">
-  <span style="color:#00E5FF; text-shadow: 0 0 20px #00E5FF; font-weight: 900; font-size: 40px;">
-    ABOUT ME
+<h2 align="left">
+  <span style="background: linear-gradient(90deg, #00E5FF, #7F00FF); -webkit-background-clip: text; color: transparent; font-weight: 900; font-size: 38px;">
+    About Me
   </span>
-</h1>
+</h2>
+
+
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=Backend+Engineer+specializing+in+real-time+infrastructure.;Cloud-native+developer+focused+on+scalable+systems.;Founder+of+DevUp+Society+impacting+300%2B+students.;Co-Founder+FNeX+building+multi-college+engineering+ecosystems.;20%2B+projects+shipped+from+idea+to+production.;Passionate+about+distributed+systems%2C+automation+and+developer+culture." />
 </p>
 
-# Skills & Technologies (V3 Expanded)
+# Skills & Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="900" />
