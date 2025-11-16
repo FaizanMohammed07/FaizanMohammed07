@@ -1,95 +1,116 @@
-<!-- GRADIENT ANIMATED NAME BANNER -->
+<!-- GRAND GRADIENT ANIMATED HEADER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/gradient-header.gif" width="1000"/>
 </p>
 
-<!-- TYPING INTRO (BOLD + NEON) -->
+<!-- MAIN NAME ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=MOHAMMED+FAIZAN+ALI;FULL+STACK+ENGINEER;BACKEND+%7C+REAL-TIME+SYSTEMS+%7C+CLOUD;FOUNDER+DEVUP+SOCIETY;BUILDING+SYSTEMS+THAT+SCALE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=MOHAMMED+FAIZAN+ALI;FULL+STACK+ENGINEER;REAL-TIME+SYSTEMS+%7C+CLOUD+%7C+BACKEND;FOUNDER+OF+DEVUP+SOCIETY;BUILDING+20%2B+REAL-WORLD+PLATFORMS" />
 </p>
 
-<!-- SVG WAVE -->
+<!-- SLEEK MOTION HEADER (UNIQUE) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elianiva/elianiva/master/asset/header.gif" width="900">
+</p>
+
+<!-- CUSTOM SVG WAVE -->
 <img src="https://raw.githubusercontent.com/kamranahmedse/kamranahmedse/master/wave.svg" width="100%" />
 
----
 
 # About Me  
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=1500&color=7F7F7F&width=650&lines=Backend+Engineer+with+focus+on+real-time+systems.;Cloud-native+developer+building+scalable+architecture.;Founder+of+DevUp+Society+%26+Co-Founder+of+FNeX.;20%2B+projects+shipped+for+real-world+impact.;Loves+automation%2C+distributed+systems+and+developer+communities." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=Backend+Engineer+specializing+in+real-time+infrastructure.;Cloud-native+developer+focused+on+scalable+systems.;Founder+of+DevUp+Society+impacting+300%2B+students.;Co-Founder+FNeX+building+multi-college+engineering+ecosystems.;20%2B+projects+shipped+from+idea+to+production.;Passionate+about+distributed+systems%2C+automation+and+developer+culture." />
 </p>
 
 ---
 
-<!-- SVG SEPARATOR -->
+<!-- WAVE 2 -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
-# Skills  
+
+# Skills & Technologies (V3 Expanded)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="900" />
 </p>
 
-<!-- Animated Section Header -->
+---
+
+## Programming Languages  
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Programming+Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c" height="55"/>
+  <img src="https://img.shields.io/badge/ES6+-000?logo=javascript&logoColor=white" height="28"/>
 </p>
 
+---
+
+## Frontend Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,ejs" height="55"/>
+  <img src="https://img.shields.io/badge/Zustand-181717?logo=react&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white" height="28"/>
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Frontend+Development" />
-</p>
+---
 
+## Backend & Real-Time Systems  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,ejs" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Backend+Development" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="55"/>
   <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Socket.io-000000?logo=socket.io" height="30"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc" height="30"/>
+  <img src="https://img.shields.io/badge/Socket.io-000000?logo=socketdotio" height="30"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Microservices-0A84FF?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/Queues%20(RabbitMQ)-FF6600" height="30"/>
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Databases" />
-</p>
+---
 
+## Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="55"/>
   <img src="https://img.shields.io/badge/GeoJSON-000000?logo=json&logoColor=white" height="30"/>
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Cloud+%26+DevOps" />
-</p>
+---
 
+## Cloud & DevOps  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" height="55"/>
   <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions" height="30"/>
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1200&pause=200&color=00D9FF&width=800&lines=Tools+%26+Utilities" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" height="50"/>
-  <img src="https://img.shields.io/badge/n8n-A659FF?logo=n8n&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="30"/>
 </p>
 
 ---
 
-<!-- ANIMATED CURVED SVG DIVIDER -->
+## Tools & Automation  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" height="55"/>
+  <img src="https://img.shields.io/badge/n8n-8A2BE2?logo=n8n&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger" height="30"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2" height="30"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry" height="30"/>
+</p>
+
+---
+
+## System Design & Infra Skills  
+- Distributed Systems  
+- Caching Layers (Redis)  
+- Load Balancing  
+- CI/CD pipelines  
+- Authentication Systems (JWT, OAuth, Cookies)  
+- API Gateways  
+- Horizontal Scaling  
+- Monitoring & Observability (Grafana, Prometheus)  
+
+---
+
+<!-- SVG WAVE -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave2.svg" width="100%" />
+
 
 # Featured Projects  
 <p align="center">
@@ -102,12 +123,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaizanMohammed07&repo=devup&theme=react&hide_border=true"/>
 </p>
 
+
 ---
 
 # GitHub Analytics  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanMohammed07&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=FaizanMohammed07&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaizanMohammed07&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=FaizanMohammed07&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -115,9 +137,6 @@
 </p>
 
 ---
-
-<!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/wave.svg" width="100%" />
 
 # Contribution Snake  
 <p align="center">
@@ -128,15 +147,15 @@
 
 # Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/faizanmohammed07tech"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:aliffaiza1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://github.com/FaizanMohammed07"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.linkedin.com/in/faizanmohammed07tech"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
+  <a href="mailto:aliffaiza1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
+  <a href="https://github.com/FaizanMohammed07"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>
 </p>
 
 ---
 
-# Final Signature Line  
+# Final Signature  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=1500&color=00E5FF&width=800&lines=I+build+ecosystems+%2C+real-time+systems+%2C+and+scalable+cloud+infrastructure."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=2600&pause=1500&color=00E5FF&width=900&lines=Engineering+Systems+That+Scale+%7C+Designing+Real-Time+Infrastructure+%7C+Building+Developer+Ecosystems."/>
 </p>
 
