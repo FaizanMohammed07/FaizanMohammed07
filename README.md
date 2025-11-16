@@ -1,103 +1,118 @@
-<!--
-  README.md — Mohammed Faizan Ali (FaizanMohammed07)
-  Ultra-premium, recruiter-first profile README for GitHub / Portfolio
--->
-
-# MOHAMMED FAIZAN ALI 
-**Full-Stack Engineer • Founder • Dev Community Builder**  
-Hyderabad, India • [LinkedIn](https://www.linkedin.com/in/faizanmohammed07tech) • [GitHub](https://github.com/FaizanMohammed07) • aliffaiza1212@gmail.com
+<!-- INTRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=MOHAMMED+FAIZAN+ALI;Full-Stack+Engineer+%7C+MERN+Developer;Backend+%7C+Real-Time+Systems+%7C+Cloud;Founder+DevUp+Society+%7C+Co-Founder+FNeX;Building+20%2B+Real-World+Products;Problem+Solver+%7C+Tech+Community+Builder" alt="Typing Animation" />
+</p>
 
 ---
 
-> I build real products that solve real problems — from campus ecosystems to health & emergency platforms.  
-> Focus: **MERN + Real-Time Systems + Scalable Cloud + Automation** — aiming for production-grade reliability and 1CR+ impact.
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/dYz40uE.gif" width="900px">
+</p>
 
 ---
 
-## TL;DR — What I ship
-- ✅ Built **Donato**: real-time donation logistics (pilot: matching latency ↓ ~60%, coordination time ↓ ~55%).  
-- ✅ Built **CollegeHub**: campus engagement platform (pilot engagement ↑ ~40–65%).  
-- ✅ Built **JeevanRakshak360**: AI + blockchain health stack (early detection ↑ ~35–50%, emergency coordination speed ↑ ~40%).  
-- ✅ Founder of **DevUp** (Dev ecosystem at VJIT) — impacted **300+ students**, running DevUp Labs, mentorship pipelines and industry collaborations.  
-- ✅ **10+ hackathons**, **10+ events** led, **20+ real-world apps** built.  
-- Tech focus: MERN, Node microservices, Fastify/Nest, Socket.io, Redis, Kafka/RabbitMQ basics, AWS/GCP/Azure, Docker, Kubernetes basics, serverless, n8n automation.
+# 🌟 About Me  
+🚀 **Full-Stack Engineer (MERN)**  
+🧠 Passion: **Backend, Real-Time Systems, Cloud, Automation, Scalable APIs**  
+👨‍💻 Currently: **Building high-impact platforms + DevUp Ecosystem**  
+🔥 20+ real-world products  
+🎯 Goal: **1CR+ SWE Role & Startup Founder**  
 
 ---
 
-## Key highlights
-- **Founder & Chief — DevUp Society**: created a one-stop developer ecosystem with roadmaps, real projects, and mentorship (50–70% engagement lift in pilots).  
-- **Co-Founder — FNeX** (Foundation for Networking & Ethical Exchange): multi-college initiative for ethical freelancing & high-impact collaboration.  
-- **Hackathon record**: 10+ participations across AI, HealthTech, EdTech & Real-Time Systems; multiple top placements and shortlisted entries.  
-- **Cloud & certs**: foundational training across **AWS / Azure / GCP**, plus Full-Stack & Backend programs.  
-- **Open source & community**: reusable templates, automation tools, starter kits and active mentoring on GitHub.
+# 🚀 Skills & Technologies  
+
+## 🧩 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c" />
+</p>
+
+## 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,ejs" />
+</p>
+
+## 🛠 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-000000?logo=socket.io" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc" />
+</p>
+
+## 🗄 Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+  <img src="https://img.shields.io/badge/GeoJSON-000000?logo=json&logoColor=white" />
+</p>
+
+## ☁ Cloud & DevOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions" />
+</p>
+
+## 🧰 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <img src="https://img.shields.io/badge/n8n-A659FF?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" />
+</p>
 
 ---
 
-## Core Skills (engineer-first, ATS optimized)
-**Programming:** JavaScript (ES6+), TypeScript, C, Python  
-**Frontend:** React, Next.js, Tailwind, Bootstrap, Zustand, React Query, EJS, Web Performance, a11y  
-**Backend:** Node.js, Express, Fastify, NestJS, REST, GraphQL (basics), Microservices, Socket.io, WebRTC, Auth (JWT/OAuth), RabbitMQ  
-**DB / Cloud / Infra:** MongoDB (Atlas), PostgreSQL, Redis, GeoJSON, AWS/Azure/GCP, Docker, Kubernetes (basics), CI/CD (GitHub Actions), Vercel, Render  
-**Tools:** Git/GitHub, Postman, Swagger/OpenAPI, API.http, n8n (automation), PM2, Prometheus/Grafana, Sentry, NGINX, k6 (load testing)  
-**Embedded / OS:** Linux (Ubuntu/Debian), WSL, Bash, Raspberry Pi, Arduino, Systemd, SSH/SCP
+# 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanMohammed07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanMohammed07&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## Signature Projects (production-minded, impact-first)
-> Each entry: short problem statement → what I built → measurable impact → tech line.
-
-### Donato — Rapid Donation Mobility & Assistance Platform  
-**Problem:** food & resource waste due to slow donor→NGO matching.  
-**What I built:** location-based donor→NGO matching, verified onboarding, Rapido-style pickup (post → alert → accept → track → deliver), realtime tracking, chat, Twilio alerts, AI image checks and delivery proof.  
-**Impact (pilot):** matching latency ↓ ~60%, coordination time ↓ ~55%.  
-**Tech:** MERN, Redis, AWS S3, Socket.io, Google Maps, Twilio, Docker, JWT, GeoJSON, CI/CD
+# 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizanMohammed07&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-### CollegeHub — Unified Campus Engagement & Intelligent Ecosystem  
-**Problem:** fragmented campus communication causing missed opportunities.  
-**What I built:** multi-role platform (Student / Club / College / Super Admin), concurrency-safe registrations, QR check-ins, AI event discovery, real-time RSVPs, analytics and monetization workflows.  
-**Impact (pilot):** campus engagement ↑ ~40–65%.  
-**Tech:** Node.js microservices, MongoDB, Redis, React, Zustand, React Query, Socket.io, Docker, GitHub Actions, NGINX, CDN
+# 📊 Languages Used  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMohammed07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### JeevanRakshak360 — AI & Blockchain Health Ecosystem  
-**Problem:** migrants & communities lack trustworthy, fast emergency care pathways.  
-**What I built:** AI symptom triage, predictive alerts, ambulance tracking + geo-routing, ABDM & scheme integrations, secure blockchain health vaults, multilingual chat/voice.  
-**Impact (pilot):** early detection ↑ ~35–50%, emergency coordination speed ↑ ~40%.  
-**Tech:** MERN, AI/ML pipelines, federated blockchain ledger, ABDM APIs, Socket.io, Twilio, Google Maps, AWS
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-### DevUp — One-Stop Developer Ecosystem & Mentorship Platform (Founder)  
-**Problem:** fragmented learning, lack of hands-on mentorship for freshers.  
-**What I built:** role-based dashboards, roadmaps, DevUp Labs (mentorship + founder interactions), real-time doubt support, project boards, leaderboards and internship pipelines.  
-**Impact (pilot):** participation & engagement ↑ ~50–70%.  
-**Tech:** MERN, Node microservices, TypeScript, Redis, Socket.io, n8n, CI/CD, Sentry, CloudFront
+# 💼 Featured Projects  
+🔥 **Donato** – Real-time donation mobility platform  
+🔥 **CollegeHub** – Unified campus ecosystem  
+🔥 **JeevanRakshak360** – AI + blockchain health platform  
+🔥 **DevUp** – Developer ecosystem & mentorship platform  
+🔥 **20+ more tools**, automation systems & microservices  
+
+Check them 👉 **[Here on my GitHub](https://github.com/FaizanMohammed07)**
 
 ---
 
-## More projects (compact showcase)
-**ProConnect** (multi-college networking, ↑ ~40%), **Exams Portal** (result processing ↓ ~55%), **Accreditation Platform** (paperwork ↓ ~60%), **Doctor Appointment System** (MERN + n8n, bookings ↓ ~45%), **TradeNexa** (trading sim), **ApnaConnect** (WebRTC video), + **20+ micro tools** for automation & campus ops.
+# 📬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizanmohammed07tech"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="mailto:aliffaiza1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://github.com/FaizanMohammed07"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+</p>
 
 ---
 
-## How I build (my engineering approach)
-1. **Problem → Metrics**: always define the KPI to improve (latency, throughput, UX time-to-complete).  
-2. **Minimal Viable Production**: ship a secure MVP that can be scaled.  
-3. **Reliability by default**: logging, monitoring, CI/CD, caching & rate-limits in day-one deploys.  
-4. **Iterate with pilots**: instrument, measure, improve — reduce false positives, increase trust signals.  
-5. **Documentation & onboarding**: developer-first README, Postman collection, Swagger/OpenAPI.
+# ⭐ Fun Fact  
+> I don’t just write code — I **build ecosystems, real-world systems, & community impact.**  
 
----
-
-## Quick demo / run (example)
-```bash
-# clone a sample project (Donato)
-git clone https://github.com/FaizanMohammed07/donato.git
-cd donato
-# backend
-cd server && npm install && npm run dev
-# frontend
-cd ../client && npm install && npm run dev
