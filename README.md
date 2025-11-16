@@ -6,14 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1150&lines=MOHAMMED+FAIZAN+ALI;FULL+STACK+ENGINEER;REAL-TIME+SYSTEMS+%7C+CLOUD+%7C+BACKEND;CO-FOUNDER+OF+DEVUP+SOCIETY;BUILDING+20%2B+REAL-WORLD+PLATFORMS" />
 </p>
 
-
-<h2 align="left">
-  <span style="background: linear-gradient(90deg, #00E5FF, #7F00FF); -webkit-background-clip: text; color: transparent; font-weight: 900; font-size: 38px;">
-    About Me
-  </span>
-</h1>
-
-
+# About Me
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3500&pause=1500&color=BEBEBE&width=700&lines=Backend+Engineer+specializing+in+real-time+infrastructure.;Cloud-native+developer+focused+on+scalable+systems.;Founder+of+DevUp+Society+impacting+300%2B+students.;Co-Founder+FNeX+building+multi-college+engineering+ecosystems.;20%2B+projects+shipped+from+idea+to+production.;Passionate+about+distributed+systems%2C+automation+and+developer+culture." />
