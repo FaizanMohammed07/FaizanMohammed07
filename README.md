@@ -22,9 +22,18 @@
 
 ## Programming Languages  
 <p align="left">
+  <!-- existing icons (keep) -->
   <img src="https://skillicons.dev/icons?i=js,ts,py,c" height="55"/>
-  <img src="https://img.shields.io/badge/ES6+-000?logo=javascript&logoColor=white" height="28"/>
+
+  <br/>
+
+  <!-- boxed badges (added) -->
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00599c"/>
 </p>
+
 
 ---
 
